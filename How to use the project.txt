@@ -1,0 +1,8 @@
+How to use the project 
+
+Download the file (ColProject2026.ipynb) and Open it on Google colab 
+
+Now Run ALL the program and attach/Upload the Datasets Zip file (detasets.zip)
+
+wait for program to Run and you get the output 
+
